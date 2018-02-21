@@ -1,7 +1,7 @@
 D=1
 IMAGE=portoleks/inf5510v18:debian
 
-.PHONY: interact run
+.PHONY: interact start
 
 interact:
 	docker run \
@@ -10,7 +10,7 @@ interact:
 	  --workdir "/home/docker/src/" \
 	  $(IMAGE)
 
-run:
+start:
 	docker run \
 	  --tty -detach \
 	  --expose=17000-19000 \

@@ -14,7 +14,7 @@ If you need a handful (or more?) terminals to the Docker image, you
 can launch it in a detached state as follows:
 
 ```
-$ make run
+$ make start
 ```
 
 You can launch as many instances as you'd like. The instance IDs
@@ -32,7 +32,7 @@ Do this from multiple native terminals to achieve the intended
 "multiple terminals" effect.
 
 If you would like to attach to an instance initiated at a particular
-depth (since `make run` may be run ad nauseum), you can set the `D`
+depth (since `make start` may be run ad nauseum), you can set the `D`
 (for depth) variable. For instance,
 
 ```
