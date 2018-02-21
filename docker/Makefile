@@ -1,7 +1,7 @@
 D=1
 IMAGE=portoleks/inf5510v18:debian
 
-.PHONY: interact start
+.PHONY: interact start attach stop
 
 interact:
 	docker run \
