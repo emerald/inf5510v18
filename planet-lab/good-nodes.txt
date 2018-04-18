@@ -1,0 +1,13 @@
+cse-yellow.cse.chalmers.se
+planetlab1.cesnet.cz
+planetlab1.dtc.umn.edu
+planetlab-1.ing.unimo.it
+planetlab2.dtc.umn.edu
+planetlab2.inf.ethz.ch
+planetlab3.cesnet.cz
+planetlab4.mini.pw.edu.pl
+planet-lab-node2.netgroup.uniroma2.it
+ple1.cesnet.cz
+ple1.planet-lab.eu
+ple2.planet-lab.eu
+pl-node-2.technion.ac.il

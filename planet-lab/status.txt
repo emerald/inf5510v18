@@ -1,0 +1,775 @@
+BAD planetlab2.diku.dk
+  !! ssh: Could not resolve hostname planetlab2.diku.dk: Name or service not known
+BAD pl2.uni-rostock.de
+  !! Timeout; skipping to next machine.
+GOOD cse-yellow.cse.chalmers.se
+GOOD ple2.planet-lab.eu
+BAD pl1.uni-rostock.de
+  !! Last login: Wed Apr 18 14:56:55 2018 from 193.157.204.248
+  !! Domain diku_inf5510 not found
+  !! Connection to pl1.uni-rostock.de closed.
+BAD dschinni.planetlab.extranet.uni-passau.de
+  !! Can't ping out :-(
+GOOD ple1.planet-lab.eu
+GOOD planet-lab-node2.netgroup.uniroma2.it
+GOOD pl-node-2.technion.ac.il
+BAD pl221nassau0.cs.princeton.edu
+  !! ssh: Could not resolve hostname pl221nassau0.cs.princeton.edu: Name or service not known
+BAD planetlab2.sfc.wide.ad.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab2.iii.u-tokyo.ac.jp
+  !! Timeout; skipping to next machine.
+BAD ricepl-1.cs.rice.edu
+  !! Timeout; skipping to next machine.
+BAD pl1.eecs.utk.edu
+  !! ssh: Could not resolve hostname pl1.eecs.utk.edu: Name or service not known
+BAD pl2.eecs.utk.edu
+  !! ssh: Could not resolve hostname pl2.eecs.utk.edu: Name or service not known
+BAD planetlab1.cs.ubc.ca
+  !! Timeout; skipping to next machine.
+BAD plab1.cs.ust.hk
+  !! Timeout; skipping to next machine.
+BAD planetlab-2.scie.uestc.edu.cn
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.umass.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.umass.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.iii.u-tokyo.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.cs.colostate.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.cs.uchicago.edu
+  !! ssh: Could not resolve hostname planetlab3.cs.uchicago.edu: Name or service not known
+BAD planetlab1.postel.org
+  !! Timeout; skipping to next machine.
+BAD planetlab1.poly.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.eee.hku.hk
+  !! Timeout; skipping to next machine.
+BAD pl1.csl.utoronto.ca
+  !! ssh: connect to host pl1.csl.utoronto.ca port 22: Connection refused
+BAD planetlab2.eee.hku.hk
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.cmcl.cs.cmu.edu
+  !! ssh: Could not resolve hostname planetlab-1.cmcl.cs.cmu.edu: Name or service not known
+BAD planetlab-2.cmcl.cs.cmu.edu
+  !! ssh: Could not resolve hostname planetlab-2.cmcl.cs.cmu.edu: Name or service not known
+BAD planetlab2.cs.duke.edu
+  !! Timeout; skipping to next machine.
+BAD planet2.scs.stanford.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-5.eecs.cwru.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.cornell.edu
+  !! Timeout; skipping to next machine.
+BAD plnode01.cs.mu.oz.au
+  !! Timeout; skipping to next machine.
+BAD plnode02.cs.mu.oz.au
+  !! Timeout; skipping to next machine.
+GOOD planetlab1.dtc.umn.edu
+BAD planetlab2.netlab.uky.edu
+  !! Timeout; skipping to next machine.
+BAD lefthand.eecs.harvard.edu
+  !! Timeout; skipping to next machine.
+BAD planet1.cc.gt.atl.ga.us
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cis.upenn.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab01.uncc.edu
+  !! ssh: Could not resolve hostname planetlab01.uncc.edu: Name or service not known
+BAD ricepl-2.cs.rice.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cis.upenn.edu
+  !! Timeout; skipping to next machine.
+BAD kupl2.ittc.ku.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab01.erin.utoronto.ca
+  !! ssh: Could not resolve hostname planetlab01.erin.utoronto.ca: Name or service not known
+BAD planetlab02.erin.utoronto.ca
+  !! ssh: Could not resolve hostname planetlab02.erin.utoronto.ca: Name or service not known
+BAD planetlab1.eecs.umich.edu
+  !! ssh: Could not resolve hostname planetlab1.eecs.umich.edu: Name or service not known
+BAD planetlab2.eecs.umich.edu
+  !! ssh: Could not resolve hostname planetlab2.eecs.umich.edu: Name or service not known
+BAD kupl1.ittc.ku.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.columbia.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.columbia.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.cs.columbia.edu
+  !! Timeout; skipping to next machine.
+BAD plink.cs.uwaterloo.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.uiuc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.engr.uconn.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.koganei.itrc.net
+  !! Timeout; skipping to next machine.
+BAD planetlab2.koganei.itrc.net
+  !! Timeout; skipping to next machine.
+BAD newbootcd.cs.princeton.edu
+  !! ssh: Could not resolve hostname newbootcd.cs.princeton.edu: Name or service not known
+BAD f20bootcd.cs.princeton.edu
+  !! ssh: Could not resolve hostname f20bootcd.cs.princeton.edu: Name or service not known
+BAD planetlab3.singaren.net.sg
+  !! Timeout; skipping to next machine.
+BAD planetx.scs.cs.nyu.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.pop-ce.rnp.br
+  !! Timeout; skipping to next machine.
+BAD planetlab1.pop-rs.rnp.br
+  !! ssh: connect to host planetlab1.pop-rs.rnp.br port 22: Connection refused
+BAD planetlab0.ias.csusb.edu
+  !! Timeout; skipping to next machine.
+BAD plab2.cs.ust.hk
+  !! Timeout; skipping to next machine.
+BAD orbpl1.rutgers.edu
+  !! Timeout; skipping to next machine.
+BAD orbpl2.rutgers.edu
+  !! Timeout; skipping to next machine.
+BAD planet-lab1.cs.ucr.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.georgetown.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.georgetown.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.iis.sinica.edu.tw
+  !! Timeout; skipping to next machine.
+BAD planetlab2.iis.sinica.edu.tw
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.cse.ohio-state.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-2.cse.ohio-state.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.netmedia.gist.ac.kr
+  !! ssh: Could not resolve hostname planetlab1.netmedia.gist.ac.kr: Name or service not known
+BAD planetlab2.cs.purdue.edu
+  !! Timeout; skipping to next machine.
+BAD pli1-pa-1.hpl.hp.com
+  !! ssh: Could not resolve hostname pli1-pa-1.hpl.hp.com: Name or service not known
+BAD pli1-pa-2.hpl.hp.com
+  !! ssh: Could not resolve hostname pli1-pa-2.hpl.hp.com: Name or service not known
+BAD pli1-pa-3.hpl.hp.com
+  !! ssh: Could not resolve hostname pli1-pa-3.hpl.hp.com: Name or service not known
+BAD pl1.cs.unm.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.utep.edu
+  !! ssh: Could not resolve hostname planetlab2.utep.edu: Name or service not known
+BAD pl2-higashi.ics.es.osaka-u.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cse.msu.edu
+  !! ssh: Could not resolve hostname planetlab1.cse.msu.edu: Name or service not known
+BAD planetlab-1a.ics.uci.edu
+  !! ssh: Could not resolve hostname planetlab-1a.ics.uci.edu: Name or service not known
+BAD planetlab2.cse.msu.edu
+  !! ssh: Could not resolve hostname planetlab2.cse.msu.edu: Name or service not known
+BAD planetlab-01.ece.uprm.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-02.ece.uprm.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.cs.uiuc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.pop-mg.rnp.br
+  !! Timeout; skipping to next machine.
+BAD planetlab2.pop-mg.rnp.br
+  !! Timeout; skipping to next machine.
+BAD planetlab-2a.ics.uci.edu
+  !! ssh: Could not resolve hostname planetlab-2a.ics.uci.edu: Name or service not known
+BAD planet0.jaist.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planet1.jaist.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab02.cs.washington.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.uc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.vuse.vanderbilt.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-2.vuse.vanderbilt.edu
+  !! Timeout; skipping to next machine.
+BAD server2.planetlab.iit-tech.net
+  !! ssh: Could not resolve hostname server2.planetlab.iit-tech.net: Name or service not known
+BAD planetlab-1.usask.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab-2.usask.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.cornell.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.eecs.wsu.edu
+  !! ssh: Could not resolve hostname planetlab1.eecs.wsu.edu: Name or service not known
+BAD planetlab2.eecs.wsu.edu
+  !! ssh: Could not resolve hostname planetlab2.eecs.wsu.edu: Name or service not known
+BAD planetlab1.sfc.wide.ad.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab3.csail.mit.edu
+  !! Timeout; skipping to next machine.
+GOOD planetlab1.cesnet.cz
+BAD planetlab04.cs.washington.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cesnet.cz
+  !! Permission denied (publickey,keyboard-interactive).
+BAD kc-sce-plab1.umkc.edu
+  !! Timeout; skipping to next machine.
+BAD kc-sce-plab2.umkc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.netmedia.gist.ac.kr
+  !! ssh: Could not resolve hostname planetlab3.netmedia.gist.ac.kr: Name or service not known
+BAD planetlab1.ucsd.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.ucsd.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.ucsd.edu
+  !! Timeout; skipping to next machine.
+BAD csplanetlab3.kaist.ac.kr
+  !! Timeout; skipping to next machine.
+BAD plab1.engr.sjsu.edu
+  !! Timeout; skipping to next machine.
+BAD plab2.engr.sjsu.edu
+  !! Timeout; skipping to next machine.
+BAD planet2.cc.gt.atl.ga.us
+  !! Timeout; skipping to next machine.
+BAD planet3.cc.gt.atl.ga.us
+  !! Timeout; skipping to next machine.
+BAD planet4.cc.gt.atl.ga.us
+  !! Timeout; skipping to next machine.
+BAD planetlab0.otemachi.wide.ad.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab1.otemachi.wide.ad.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab1.dojima.wide.ad.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab2.singaren.net.sg
+  !! Timeout; skipping to next machine.
+BAD planetlab7.csail.mit.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.csail.mit.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-01.kusa.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab-02.kusa.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab2.emich.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.iin-bit.com.cn
+  !! ssh: Could not resolve hostname planetlab1.iin-bit.com.cn: Name or service not known
+BAD fobos.cecalc.ula.ve
+  !! Timeout; skipping to next machine.
+BAD planetlab5.cs.duke.edu
+  !! Timeout; skipping to next machine.
+BAD deimos.cecalc.ula.ve
+  !! Timeout; skipping to next machine.
+BAD planetlab5.cs.cornell.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab6.cs.cornell.edu
+  !! ssh: Could not resolve hostname planetlab6.cs.cornell.edu: Name or service not known
+BAD planetlab4.ie.cuhk.edu.hk
+  !! Timeout; skipping to next machine.
+BAD planetlab5.ie.cuhk.edu.hk
+  !! Timeout; skipping to next machine.
+BAD planetlab-03.naist.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab-04.naist.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.ubc.ca
+  !! Timeout; skipping to next machine.
+GOOD planetlab2.inf.ethz.ch
+GOOD planetlab4.mini.pw.edu.pl
+BAD planetlab2.eas.asu.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.eas.asu.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.flux.utah.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab5.flux.utah.edu
+  !! Timeout; skipping to next machine.
+BAD pub1-s.ane.cmc.osaka-u.ac.jp
+  !! Timeout; skipping to next machine.
+BAD pub2-s.ane.cmc.osaka-u.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab1.citadel.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.citadel.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.inf.ethz.ch
+  !! Timeout; skipping to next machine.
+BAD planetlab4.inf.ethz.ch
+  !! Timeout; skipping to next machine.
+BAD planetlab1-santiago.lan.redclara.net
+  !! ssh: connect to host planetlab1-santiago.lan.redclara.net port 22: Connection refused
+BAD planetlab2-santiago.lan.redclara.net
+  !! ssh: connect to host planetlab2-santiago.lan.redclara.net port 22: Connection refused
+BAD planetlab1-saopaulo.lan.redclara.net
+  !! ssh: connect to host planetlab1-saopaulo.lan.redclara.net port 22: Connection refused
+BAD planetlab2-saopaulo.lan.redclara.net
+  !! Timeout; skipping to next machine.
+BAD planetlabnode-1.docomolabs-usa.com
+  !! Timeout; skipping to next machine.
+BAD planetlabnode-2.docomolabs-usa.com
+  !! Timeout; skipping to next machine.
+BAD planetlab2-buenosaires.lan.redclara.net
+  !! ssh: connect to host planetlab2-buenosaires.lan.redclara.net port 22: No route to host
+BAD planetlab1-tijuana.lan.redclara.net
+  !! Timeout; skipping to next machine.
+BAD planetlab2-tijuana.lan.redclara.net
+  !! Timeout; skipping to next machine.
+BAD pl1snu.koren.kr
+  !! ssh: Could not resolve hostname pl1snu.koren.kr: Name or service not known
+BAD planetlab-05.cs.princeton.edu
+  !! Permission denied (publickey).
+BAD planetlab2.byu.edu
+  !! Timeout; skipping to next machine.
+BAD mercury.silicon-valley.ru
+  !! Timeout; skipping to next machine.
+BAD venus.silicon-valley.ru
+  !! Timeout; skipping to next machine.
+BAD plab-1.sinp.msu.ru
+  !! Timeout; skipping to next machine.
+BAD plab-2.sinp.msu.ru
+  !! Timeout; skipping to next machine.
+BAD planetlabb.engr.ccny.cuny.edu
+  !! Permission denied (publickey,keyboard-interactive).
+BAD planetlab-02.bu.edu
+  !! Timeout; skipping to next machine.
+BAD pli1-pa-5.hpl.hp.com
+  !! ssh: Could not resolve hostname pli1-pa-5.hpl.hp.com: Name or service not known
+BAD planetlab1.eecs.ucf.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.eecs.ucf.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.warsaw.rd.tp.pl
+  !! Timeout; skipping to next machine.
+BAD planetlab2.williams.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.williams.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.nileu.edu.eg
+  !! ssh: Could not resolve hostname planetlab1.nileu.edu.eg: Name or service not known
+BAD pluto.cs.binghamton.edu
+  !! ssh: connect to host pluto.cs.binghamton.edu port 22: Connection refused
+BAD planetlab02.sys.virginia.edu
+  !! Timeout; skipping to next machine.
+BAD pl3.planetlab.uvic.ca
+  !! ssh: Could not resolve hostname pl3.planetlab.uvic.ca: Name or service not known
+BAD planetlab1.comp.nus.edu.sg
+  !! Timeout; skipping to next machine.
+BAD planetlab2.comp.nus.edu.sg
+  !! Timeout; skipping to next machine.
+BAD saturn.cs.brown.edu
+  !! ssh: Could not resolve hostname saturn.cs.brown.edu: Name or service not known
+BAD jupiter.cs.brown.edu
+  !! Timeout; skipping to next machine.
+BAD pluto.cs.brown.edu
+  !! Timeout; skipping to next machine.
+BAD planetlabone.ccs.neu.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.iitr.ernet.in
+  !! ssh: Could not resolve hostname planetlab1.iitr.ernet.in: Name or service not known
+BAD planet-lab1.ufabc.edu.br
+  !! Timeout; skipping to next machine.
+BAD planet-lab2.ufabc.edu.br
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.unc.edu
+  !! Timeout; skipping to next machine.
+BAD mtuplanetlab1.cs.mtu.edu
+  !! Timeout; skipping to next machine.
+BAD planet3.cs.ucsb.edu
+  !! ssh: connect to host planet3.cs.ucsb.edu port 22: Connection refused
+BAD planetlab1.cs.uoregon.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab15.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.umb.edu
+  !! Timeout; skipping to next machine.
+GOOD planetlab2.dtc.umn.edu
+BAD pl1.bit.uoit.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab1.n.info.eng.osaka-cu.ac.jp
+  !! ssh: Could not resolve hostname planetlab1.n.info.eng.osaka-cu.ac.jp: Name or service not known
+BAD plgmu2.ite.gmu.edu
+  !! ssh: connect to host plgmu2.ite.gmu.edu port 22: Connection refused
+BAD planet1.ku.edu.tr
+  !! Timeout; skipping to next machine.
+BAD planet2.ku.edu.tr
+  !! Timeout; skipping to next machine.
+BAD cs-planetlab3.cs.surrey.sfu.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab1.csie.nuk.edu.tw
+  !! Timeout; skipping to next machine.
+BAD planetlab2.csie.nuk.edu.tw
+  !! Timeout; skipping to next machine.
+BAD pl1.ucs.indiana.edu
+  !! Timeout; skipping to next machine.
+BAD pl2.ucs.indiana.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.umb.edu
+  !! Timeout; skipping to next machine.
+BAD cs-planetlab4.cs.surrey.sfu.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab5.csres.utexas.edu
+  !! ssh: Could not resolve hostname planetlab5.csres.utexas.edu: Name or service not known
+BAD planetlab3.eecs.northwestern.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.buaa.edu.cn
+  !! ssh: Could not resolve hostname planetlab1.buaa.edu.cn: Name or service not known
+BAD node1.planetlab.mathcs.emory.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.williams.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab5.williams.edu
+  !! Timeout; skipping to next machine.
+BAD planetslug4.cse.ucsc.edu
+  !! Timeout; skipping to next machine.
+BAD planetslug5.cse.ucsc.edu
+  !! Timeout; skipping to next machine.
+BAD netapp7.cs.kookmin.ac.kr
+  !! Timeout; skipping to next machine.
+BAD planetlab3.cse.nd.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.cse.nd.edu
+  !! Timeout; skipping to next machine.
+BAD node2.planetlab.mathcs.emory.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab6.flux.utah.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab7.flux.utah.edu
+  !! Timeout; skipping to next machine.
+BAD mtuplanetlab2.cs.mtu.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.wail.wisc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.wail.wisc.edu
+  !! Timeout; skipping to next machine.
+BAD planet-lab1.itba.edu.ar
+  !! Timeout; skipping to next machine.
+BAD planetlab1.unl.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.unl.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.comp.nus.edu.sg
+  !! Timeout; skipping to next machine.
+BAD planetlab2.utdallas.edu
+  !! Timeout; skipping to next machine.
+BAD planet-lab2.cs.ucr.edu
+  !! Timeout; skipping to next machine.
+BAD server3.planetlab.iit-tech.net
+  !! ssh: Could not resolve hostname server3.planetlab.iit-tech.net: Name or service not known
+BAD nis-planet1.doshisha.ac.jp
+  !! ssh: Could not resolve hostname nis-planet1.doshisha.ac.jp: Name or service not known
+BAD planetlab1.csee.usf.edu
+  !! ssh: connect to host planetlab1.csee.usf.edu port 22: Connection refused
+BAD planetlab-2.calpoly-netlab.net
+  !! Timeout; skipping to next machine.
+BAD planetlab3.postel.org
+  !! Timeout; skipping to next machine.
+BAD planetlab4.postel.org
+  !! Timeout; skipping to next machine.
+BAD plab3.eece.ksu.edu
+  !! ssh: Could not resolve hostname plab3.eece.ksu.edu: Name or service not known
+BAD planet-lab1.uba.ar
+  !! Timeout; skipping to next machine.
+BAD planet-lab2.itba.edu.ar
+  !! Timeout; skipping to next machine.
+BAD vn5.cse.wustl.edu
+  !! ssh: Could not resolve hostname vn5.cse.wustl.edu: Name or service not known
+BAD plonk.cs.uwaterloo.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab1.c3sl.ufpr.br
+  !! Timeout; skipping to next machine.
+BAD planetlab2.c3sl.ufpr.br
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.ucl.ac.uk
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.ucl.ac.uk
+  !! ssh: connect to host planetlab2.cs.ucl.ac.uk port 22: Connection refused
+BAD planetlab2.csee.usf.edu
+  !! ssh: connect to host planetlab2.csee.usf.edu port 22: Connection refused
+BAD planetlab9.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD node1.planetlab.albany.edu
+  !! Timeout; skipping to next machine.
+BAD node2.planetlab.albany.edu
+  !! Timeout; skipping to next machine.
+BAD roam1.cs.ou.edu
+  !! Timeout; skipping to next machine.
+BAD roam2.cs.ou.edu
+  !! Timeout; skipping to next machine.
+BAD node1.planet-lab.titech.ac.jp
+  !! ssh: Could not resolve hostname node1.planet-lab.titech.ac.jp: Name or service not known
+BAD node3.planet-lab.titech.ac.jp
+  !! ssh: Could not resolve hostname node3.planet-lab.titech.ac.jp: Name or service not known
+BAD node4.planet-lab.titech.ac.jp
+  !! ssh: Could not resolve hostname node4.planet-lab.titech.ac.jp: Name or service not known
+BAD pl1.cewit.stonybrook.edu
+  !! Timeout; skipping to next machine.
+BAD pl2.cewit.stonybrook.edu
+  !! Timeout; skipping to next machine.
+BAD charon.cs.binghamton.edu
+  !! Timeout; skipping to next machine.
+BAD pl1.planet.cs.kent.edu
+  !! Timeout; skipping to next machine.
+BAD osiris.planetlab.cs.umd.edu
+  !! Timeout; skipping to next machine.
+BAD whitefall.planetlab.cs.umd.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.poly.edu
+  !! Timeout; skipping to next machine.
+BAD planet-lab2.uba.ar
+  !! ssh: connect to host planet-lab2.uba.ar port 22: Connection refused
+BAD pn1-planetlab.huawei.com
+  !! Timeout; skipping to next machine.
+BAD pn2-planetlab.huawei.com
+  !! Timeout; skipping to next machine.
+BAD planetlab3.n.info.eng.osaka-cu.ac.jp
+  !! ssh: Could not resolve hostname planetlab3.n.info.eng.osaka-cu.ac.jp: Name or service not known
+BAD planetlab-01.cs.princeton.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-03.cs.princeton.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-04.cs.princeton.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.ntu.nodes.planet-lab.org
+  !! Timeout; skipping to next machine.
+BAD planetlab01.cs.washington.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.cs.auckland.ac.nz
+  !! ssh: connect to host planetlab-1.cs.auckland.ac.nz port 22: Connection refused
+BAD planetlab-2.cs.auckland.ac.nz
+  !! ssh: connect to host planetlab-2.cs.auckland.ac.nz port 22: Connection refused
+BAD pl1.rcc.uottawa.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab4.n.info.eng.osaka-cu.ac.jp
+  !! ssh: Could not resolve hostname planetlab4.n.info.eng.osaka-cu.ac.jp: Name or service not known
+BAD planetlab2.nileu.edu.eg
+  !! ssh: Could not resolve hostname planetlab2.nileu.edu.eg: Name or service not known
+BAD planetlab1.utep.edu
+  !! ssh: Could not resolve hostname planetlab1.utep.edu: Name or service not known
+BAD plab4.eece.ksu.edu
+  !! ssh: Could not resolve hostname plab4.eece.ksu.edu: Name or service not known
+BAD planetlab03.cs.washington.edu
+  !! Timeout; skipping to next machine.
+BAD pl1-higashi.ics.es.osaka-u.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab3.cs.uiuc.edu
+  !! Timeout; skipping to next machine.
+BAD salt.planetlab.cs.umd.edu
+  !! Permission denied (publickey,keyboard-interactive).
+BAD planetlab1.csuohio.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.cs.uic.edu
+  !! ssh: connect to host planetlab-1.cs.uic.edu port 22: Connection refused
+BAD planetlab-2.cs.uic.edu
+  !! ssh: connect to host planetlab-2.cs.uic.edu port 22: Connection refused
+BAD plnodea.plaust.edu.cn
+  !! ssh: Could not resolve hostname plnodea.plaust.edu.cn: Name or service not known
+BAD node0.planetlab.etl.luc.edu
+  !! Timeout; skipping to next machine.
+BAD node1.planetlab.etl.luc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab-2.webedu.ccu.edu.tw
+  !! Timeout; skipping to next machine.
+BAD planetlab-01.vt.nodes.planet-lab.org
+  !! Timeout; skipping to next machine.
+BAD planetlab-02.vt.nodes.planet-lab.org
+  !! Timeout; skipping to next machine.
+BAD metis.mcs.suffolk.edu
+  !! Timeout; skipping to next machine.
+BAD adrastea.mcs.suffolk.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.cs.uoregon.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.uoregon.edu
+  !! Timeout; skipping to next machine.
+BAD planet4.cs.ucsb.edu
+  !! ssh: connect to host planet4.cs.ucsb.edu port 22: Connection refused
+BAD planetlab1.cs.ucla.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab12.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab5.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab13.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab7.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab10.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab11.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.bgu.ac.il
+  !! Timeout; skipping to next machine.
+BAD vn4.cse.wustl.edu
+  !! ssh: Could not resolve hostname vn4.cse.wustl.edu: Name or service not known
+BAD planetlab6.cs.duke.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab7.cs.duke.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab5.eecs.umich.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab5.cs.uiuc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab6.cs.uiuc.edu
+  !! Timeout; skipping to next machine.
+BAD mnc1.pusan.ac.kr
+  !! ssh: Could not resolve hostname mnc1.pusan.ac.kr: Name or service not known
+BAD mnc2.pusan.ac.kr
+  !! ssh: Could not resolve hostname mnc2.pusan.ac.kr: Name or service not known
+BAD planetlab05.cs.washington.edu
+  !! ssh: Could not resolve hostname planetlab05.cs.washington.edu: Name or service not known
+BAD pl1.eng.monash.edu.au
+  !! Timeout; skipping to next machine.
+BAD pl2.eng.monash.edu.au
+  !! Timeout; skipping to next machine.
+BAD planetlab4.cs.uchicago.edu
+  !! ssh: Could not resolve hostname planetlab4.cs.uchicago.edu: Name or service not known
+BAD pl1.sos.info.hiroshima-cu.ac.jp
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.dartmouth.edu
+  !! ssh: Could not resolve hostname planetlab1.cs.dartmouth.edu: Name or service not known
+BAD pli1-pa-6.hpl.hp.com
+  !! ssh: Could not resolve hostname pli1-pa-6.hpl.hp.com: Name or service not known
+BAD ricepl-4.cs.rice.edu
+  !! Timeout; skipping to next machine.
+BAD ricepl-5.cs.rice.edu
+  !! Timeout; skipping to next machine.
+BAD pnode2.pdcc-ntu.singaren.net.sg
+  !! Timeout; skipping to next machine.
+BAD pnode1.pdcc-ntu.singaren.net.sg
+  !! Timeout; skipping to next machine.
+BAD planetlab2.pop-pa.rnp.br
+  !! Timeout; skipping to next machine.
+BAD planetlab4.canterbury.ac.nz
+  !! Timeout; skipping to next machine.
+BAD planetlab1.pop-pa.rnp.br
+  !! Timeout; skipping to next machine.
+BAD planetlab2.aut.ac.nz
+  !! Timeout; skipping to next machine.
+BAD pl2.cs.yale.edu
+  !! ssh: connect to host pl2.cs.yale.edu port 22: Connection refused
+BAD pl1.cs.yale.edu
+  !! ssh: connect to host pl1.cs.yale.edu port 22: Connection refused
+BAD planetlab2.cnis.nyit.edu
+  !! Timeout; skipping to next machine.
+BAD pl-dccd-01.cua.uam.mx
+  !! Timeout; skipping to next machine.
+BAD server4.planetlab.iit-tech.net
+  !! ssh: Could not resolve hostname server4.planetlab.iit-tech.net: Name or service not known
+BAD arari.snu.ac.kr
+  !! Timeout; skipping to next machine.
+BAD recall.snu.ac.kr
+  !! Timeout; skipping to next machine.
+BAD planetlab1.tsuniv.edu
+  !! ssh: connect to host planetlab1.tsuniv.edu port 22: Connection refused
+BAD planetlab-5.ece.iastate.edu
+  !! ssh: Could not resolve hostname planetlab-5.ece.iastate.edu: Name or service not known
+BAD planet-lab4.uba.ar
+  !! Timeout; skipping to next machine.
+BAD planetlab2.ustc.edu.cn
+  !! Timeout; skipping to next machine.
+BAD planetlab0.ucsc.cmb.ac.lk
+  !! Timeout; skipping to next machine.
+BAD saturn.planetlab.carleton.ca
+  !! Timeout; skipping to next machine.
+BAD planetlab1.unr.edu
+  !! Timeout; skipping to next machine.
+BAD 75-130-96-13.static.oxfr.ma.charter.com
+  !! Timeout; skipping to next machine.
+BAD planetlab1.mnlab.cti.depaul.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab3.canterbury.ac.nz
+  !! Timeout; skipping to next machine.
+BAD planet-lab3.uba.ar
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.elisa.cpsc.ucalgary.ca
+  !! Timeout; skipping to next machine.
+GOOD planetlab3.cesnet.cz
+BAD planetlab1.cs.wayne.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.inf.ethz.ch
+  !! ssh: connect to host planetlab1.inf.ethz.ch port 22: Connection refused
+BAD pl1.yonsei.ac.kr
+  !! Timeout; skipping to next machine.
+BAD pl2.yonsei.ac.kr
+  !! Timeout; skipping to next machine.
+BAD planetlab1.warsaw.rd.tp.pl
+  !! Timeout; skipping to next machine.
+BAD planetlab1.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD pl2.csl.utoronto.ca
+  !! ssh: connect to host pl2.csl.utoronto.ca port 22: Connection refused
+BAD pli1-pa-4.hpl.hp.com
+  !! ssh: Could not resolve hostname pli1-pa-4.hpl.hp.com: Name or service not known
+BAD planetlab1.netlab.uky.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.cs.uiuc.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab2.pop-rs.rnp.br
+  !! ssh: connect to host planetlab2.pop-rs.rnp.br port 22: Connection refused
+BAD planetlab1.cs.purdue.edu
+  !! Timeout; skipping to next machine.
+BAD csplanetlab4.kaist.ac.kr
+  !! Timeout; skipping to next machine.
+BAD planetlab1.singaren.net.sg
+  !! Timeout; skipping to next machine.
+BAD planetlab5.csail.mit.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.cs.duke.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab6.csail.mit.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1-buenosaires.lan.redclara.net
+  !! Timeout; skipping to next machine.
+BAD earth.cs.brown.edu
+  !! ssh: connect to host earth.cs.brown.edu port 22: Connection refused
+BAD pl-dccd-02.cua.uam.mx
+  !! ssh: connect to host pl-dccd-02.cua.uam.mx port 22: Connection refused
+BAD planetlab2.pop-ce.rnp.br
+  !! Timeout; skipping to next machine.
+BAD plab2.larc.usp.br
+  !! Timeout; skipping to next machine.
+BAD planetlab-1.calpoly-netlab.net
+  !! Timeout; skipping to next machine.
+BAD planetlab3.eecs.umich.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab4.singaren.net.sg
+  !! Timeout; skipping to next machine.
+BAD planetlab8.millennium.berkeley.edu
+  !! Timeout; skipping to next machine.
+BAD nodea.howard.edu
+  !! ssh: Could not resolve hostname nodea.howard.edu: Name or service not known
+BAD planetlab1.aut.ac.nz
+  !! Timeout; skipping to next machine.
+BAD planetlab2.mnlab.cti.depaul.edu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.cs.uit.no
+  !! Timeout; skipping to next machine.
+BAD pl-node-1.technion.ac.il
+  !! Timeout; skipping to next machine.
+BAD iraplab1.iralab.uni-karlsruhe.de
+  !! ssh_exchange_identification: Connection closed by remote host
+BAD nuc1.planet-lab.eu
+  !! Timeout; skipping to next machine.
+BAD planetlab1.diku.dk
+  !! ssh: Could not resolve hostname planetlab1.diku.dk: Name or service not known
+BAD planetlab2.upm.ro
+  !! Last login: Wed Apr 18 15:25:40 2018 from 193.157.204.248
+  !! Domain diku_inf5510 not found
+  !! Connection to planetlab2.upm.ro closed.
+GOOD planetlab-1.ing.unimo.it
+BAD aladdin.planetlab.extranet.uni-passau.de
+  !! Can't ping out :-(
+BAD planetlab1.informatik.uni-goettingen.de
+  !! Timeout; skipping to next machine.
+BAD planetvs2.informatik.uni-stuttgart.de
+  !! ssh_exchange_identification: Connection closed by remote host
+BAD ple2.cesnet.cz
+  !! ssh_exchange_identification: Connection closed by remote host
+BAD iraplab2.iralab.uni-karlsruhe.de
+  !! ssh_exchange_identification: Connection closed by remote host
+GOOD ple1.cesnet.cz
+BAD planetlabeu-1.tssg.org
+  !! Timeout; skipping to next machine.

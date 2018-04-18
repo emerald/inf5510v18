@@ -1,0 +1,13 @@
+cse-yellow.cse.chalmers.se, Sweden
+planetlab1.cesnet.cz, Czech Republic
+planetlab1.dtc.umn.edu, United States
+planetlab-1.ing.unimo.it, Italy
+planetlab2.dtc.umn.edu, United States
+planetlab2.inf.ethz.ch, Switzerland
+planetlab3.cesnet.cz, Czech Republic
+planetlab4.mini.pw.edu.pl, Poland
+planet-lab-node2.netgroup.uniroma2.it, Italy
+ple1.cesnet.cz, Czech Republic
+ple1.planet-lab.eu, France
+ple2.planet-lab.eu, France
+pl-node-2.technion.ac.il, Israel
